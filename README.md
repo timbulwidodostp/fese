@@ -1,6 +1,8 @@
 # fese
 Standard errors for fixed effects Use fese With STATA 18
 
+https://www.youtube.com/watch?v=QB9um40GV3o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
